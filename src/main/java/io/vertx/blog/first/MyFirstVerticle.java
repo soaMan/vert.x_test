@@ -1,4 +1,4 @@
-package io.vertx.blog.test;
+package io.vertx.blog.first;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Future;
